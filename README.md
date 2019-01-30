@@ -13,3 +13,4 @@ _Please read the [contribution guidelines](https://github.com/Cycling74/n4m-comm
 - [Nature of Code](https://github.com/dfamil/n4m-examples/tree/master/natureofcode) by [David Familian](https://github.com/dfamil). Examples from [Nature of Code](https://natureofcode.com/) by Daniel Shiffman, Vectors chapter.
 - [Node LOM](https://github.com/iamjoncannon/nodeLOM) by [Jonathan Cannon](https://github.com/iamjoncanno). Enable Node.js to manipulate a Live session in real time and stream session data externally.
 - [QRCode-generator](https://github.com/avantcontra/n4m-qrcode-generator) by [Contra](https://www.floatbug.com/contra/). Generate QRCode image from some text, web URL, etc.
+- [Vimeo-Max/MSP](https://github.com/vimeo/vimeo-maxmsp) by Sumanth from [Vimeo](https://vimeo.com/) - API to play and manipulate Vimeo videos on Max/MSP and Jitter.
